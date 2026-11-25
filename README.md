@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-<!--
+<!--### Hi there 👋
+
+I'm *Gokulnath K, a 1st-year Computer Science & Engineering student at **Saveetha Engineering College* building strong fundamentals in programming and software development.
+
+- 🌱 *Currently learning:* Python, data structures, and system design fundamentals
+- 💻 *Exploring:* Problem solving, clean code, and practical mini-projects
+- 🤝 *Open to:* Beginner-friendly coding collaborations, study groups, and hackathons
+- 📫 *Connect with me:* [LinkedIn](https://www.linkedin.com/)
+-
 **gokulnath024-alt/gokulnath024-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
